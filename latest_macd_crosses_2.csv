@@ -1,0 +1,701 @@
+Stock,Date,MACD,Signal,Diff
+MBB.VN,2025-08-05,"Ticker
+    636.445924
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    573.2017
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    63.244224
+Name: 2025-08-05 00:00:00, dtype: object"
+CRE.VN,2025-08-05,"Ticker
+    214.768028
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    201.896777
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    12.871251
+Name: 2025-08-05 00:00:00, dtype: object"
+MSB.VN,2025-08-05,"Ticker
+    455.546983
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    448.733971
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    6.813012
+Name: 2025-08-05 00:00:00, dtype: object"
+STB.VN,2025-08-05,"Ticker
+    1088.219726
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    1022.318885
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    65.900842
+Name: 2025-08-05 00:00:00, dtype: object"
+ACB.VN,2025-08-05,"Ticker
+    431.833419
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    431.315107
+Name: 2025-08-05 00:00:00, dtype: object","Ticker
+    0.518312
+Name: 2025-08-05 00:00:00, dtype: object"
+OCB.VN,2025-08-04,"Ticker
+    481.176937
+Name: 2025-08-04 00:00:00, dtype: object","Ticker
+    481.028276
+Name: 2025-08-04 00:00:00, dtype: object","Ticker
+    0.148661
+Name: 2025-08-04 00:00:00, dtype: object"
+NT2.VN,2025-08-04,"Ticker
+    454.844107
+Name: 2025-08-04 00:00:00, dtype: object","Ticker
+    395.9338
+Name: 2025-08-04 00:00:00, dtype: object","Ticker
+    58.910306
+Name: 2025-08-04 00:00:00, dtype: object"
+GEG.VN,2025-08-04,"Ticker
+    293.494323
+Name: 2025-08-04 00:00:00, dtype: object","Ticker
+    242.178534
+Name: 2025-08-04 00:00:00, dtype: object","Ticker
+    51.315789
+Name: 2025-08-04 00:00:00, dtype: object"
+IMP.VN,2025-08-04,"Ticker
+    340.351821
+Name: 2025-08-04 00:00:00, dtype: object","Ticker
+    236.08141
+Name: 2025-08-04 00:00:00, dtype: object","Ticker
+    104.270412
+Name: 2025-08-04 00:00:00, dtype: object"
+BCM.VN,2025-07-31,"Ticker
+    1725.629648
+Name: 2025-07-31 00:00:00, dtype: object","Ticker
+    1719.889196
+Name: 2025-07-31 00:00:00, dtype: object","Ticker
+    5.740452
+Name: 2025-07-31 00:00:00, dtype: object"
+NLG.VN,2025-07-30,"Ticker
+    946.719195
+Name: 2025-07-30 00:00:00, dtype: object","Ticker
+    945.349595
+Name: 2025-07-30 00:00:00, dtype: object","Ticker
+    1.3696
+Name: 2025-07-30 00:00:00, dtype: object"
+BWE.VN,2025-07-30,"Ticker
+   -254.508864
+Name: 2025-07-30 00:00:00, dtype: object","Ticker
+   -255.436595
+Name: 2025-07-30 00:00:00, dtype: object","Ticker
+    0.927731
+Name: 2025-07-30 00:00:00, dtype: object"
+TMS.VN,2025-07-30,"Ticker
+    33.651761
+Name: 2025-07-30 00:00:00, dtype: object","Ticker
+    14.484746
+Name: 2025-07-30 00:00:00, dtype: object","Ticker
+    19.167015
+Name: 2025-07-30 00:00:00, dtype: object"
+DHC.VN,2025-07-30,"Ticker
+    926.001621
+Name: 2025-07-30 00:00:00, dtype: object","Ticker
+    904.264264
+Name: 2025-07-30 00:00:00, dtype: object","Ticker
+    21.737357
+Name: 2025-07-30 00:00:00, dtype: object"
+SZC.VN,2025-07-28,"Ticker
+    764.04741
+Name: 2025-07-28 00:00:00, dtype: object","Ticker
+    734.539042
+Name: 2025-07-28 00:00:00, dtype: object","Ticker
+    29.508369
+Name: 2025-07-28 00:00:00, dtype: object"
+DBC.VN,2025-07-28,"Ticker
+    930.922722
+Name: 2025-07-28 00:00:00, dtype: object","Ticker
+    901.180536
+Name: 2025-07-28 00:00:00, dtype: object","Ticker
+    29.742186
+Name: 2025-07-28 00:00:00, dtype: object"
+FTS.VN,2025-07-28,"Ticker
+    1175.50849
+Name: 2025-07-28 00:00:00, dtype: object","Ticker
+    1073.446143
+Name: 2025-07-28 00:00:00, dtype: object","Ticker
+    102.062347
+Name: 2025-07-28 00:00:00, dtype: object"
+PVT.VN,2025-07-25,"Ticker
+    177.89724
+Name: 2025-07-25 00:00:00, dtype: object","Ticker
+    158.649483
+Name: 2025-07-25 00:00:00, dtype: object","Ticker
+    19.247758
+Name: 2025-07-25 00:00:00, dtype: object"
+SCS.VN,2025-07-24,"Ticker
+    853.960942
+Name: 2025-07-24 00:00:00, dtype: object","Ticker
+    835.137746
+Name: 2025-07-24 00:00:00, dtype: object","Ticker
+    18.823196
+Name: 2025-07-24 00:00:00, dtype: object"
+GVR.VN,2025-07-24,"Ticker
+    478.879718
+Name: 2025-07-24 00:00:00, dtype: object","Ticker
+    424.140096
+Name: 2025-07-24 00:00:00, dtype: object","Ticker
+    54.739622
+Name: 2025-07-24 00:00:00, dtype: object"
+VPI.VN,2025-07-23,"Ticker
+   -59.702341
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+   -112.324075
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    52.621734
+Name: 2025-07-23 00:00:00, dtype: object"
+REE.VN,2025-07-23,"Ticker
+    768.067874
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    747.432685
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    20.635188
+Name: 2025-07-23 00:00:00, dtype: object"
+DGW.VN,2025-07-23,"Ticker
+    1718.897672
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    1713.227515
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    5.670158
+Name: 2025-07-23 00:00:00, dtype: object"
+PVD.VN,2025-07-23,"Ticker
+    221.205813
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    216.789955
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    4.415859
+Name: 2025-07-23 00:00:00, dtype: object"
+VCG.VN,2025-07-23,"Ticker
+    669.980397
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    653.984368
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    15.99603
+Name: 2025-07-23 00:00:00, dtype: object"
+FRT.VN,2025-07-23,"Ticker
+    3876.909066
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    3645.249305
+Name: 2025-07-23 00:00:00, dtype: object","Ticker
+    231.659762
+Name: 2025-07-23 00:00:00, dtype: object"
+DCM.VN,2025-07-22,"Ticker
+    407.261032
+Name: 2025-07-22 00:00:00, dtype: object","Ticker
+    393.166681
+Name: 2025-07-22 00:00:00, dtype: object","Ticker
+    14.094351
+Name: 2025-07-22 00:00:00, dtype: object"
+DPM.VN,2025-07-21,"Ticker
+    1047.416277
+Name: 2025-07-21 00:00:00, dtype: object","Ticker
+    980.808188
+Name: 2025-07-21 00:00:00, dtype: object","Ticker
+    66.608089
+Name: 2025-07-21 00:00:00, dtype: object"
+BMP.VN,2025-07-21,"Ticker
+    1432.058143
+Name: 2025-07-21 00:00:00, dtype: object","Ticker
+    1352.425953
+Name: 2025-07-21 00:00:00, dtype: object","Ticker
+    79.63219
+Name: 2025-07-21 00:00:00, dtype: object"
+HT1.VN,2025-07-21,"Ticker
+    434.604635
+Name: 2025-07-21 00:00:00, dtype: object","Ticker
+    405.471957
+Name: 2025-07-21 00:00:00, dtype: object","Ticker
+    29.132679
+Name: 2025-07-21 00:00:00, dtype: object"
+SBT.VN,2025-07-18,"Ticker
+    548.556895
+Name: 2025-07-18 00:00:00, dtype: object","Ticker
+    466.983967
+Name: 2025-07-18 00:00:00, dtype: object","Ticker
+    81.572928
+Name: 2025-07-18 00:00:00, dtype: object"
+HDG.VN,2025-07-17,"Ticker
+    593.517221
+Name: 2025-07-17 00:00:00, dtype: object","Ticker
+    474.962957
+Name: 2025-07-17 00:00:00, dtype: object","Ticker
+    118.554264
+Name: 2025-07-17 00:00:00, dtype: object"
+CTD.VN,2025-07-17,"Ticker
+    963.012189
+Name: 2025-07-17 00:00:00, dtype: object","Ticker
+    909.696863
+Name: 2025-07-17 00:00:00, dtype: object","Ticker
+    53.315326
+Name: 2025-07-17 00:00:00, dtype: object"
+KOS.VN,2025-07-16,"Ticker
+   -44.13341
+Name: 2025-07-16 00:00:00, dtype: object","Ticker
+   -46.352633
+Name: 2025-07-16 00:00:00, dtype: object","Ticker
+    2.219224
+Name: 2025-07-16 00:00:00, dtype: object"
+GEX.VN,2025-07-15,"Ticker
+    1724.905374
+Name: 2025-07-15 00:00:00, dtype: object","Ticker
+    1632.015802
+Name: 2025-07-15 00:00:00, dtype: object","Ticker
+    92.889572
+Name: 2025-07-15 00:00:00, dtype: object"
+DXS.VN,2025-07-14,"Ticker
+    439.809905
+Name: 2025-07-14 00:00:00, dtype: object","Ticker
+    437.503822
+Name: 2025-07-14 00:00:00, dtype: object","Ticker
+    2.306083
+Name: 2025-07-14 00:00:00, dtype: object"
+AGG.VN,2025-07-14,"Ticker
+    81.799613
+Name: 2025-07-14 00:00:00, dtype: object","Ticker
+    62.643465
+Name: 2025-07-14 00:00:00, dtype: object","Ticker
+    19.156148
+Name: 2025-07-14 00:00:00, dtype: object"
+PNJ.VN,2025-07-14,"Ticker
+    1489.603843
+Name: 2025-07-14 00:00:00, dtype: object","Ticker
+    1230.642347
+Name: 2025-07-14 00:00:00, dtype: object","Ticker
+    258.961496
+Name: 2025-07-14 00:00:00, dtype: object"
+DXG.VN,2025-07-14,"Ticker
+    574.828086
+Name: 2025-07-14 00:00:00, dtype: object","Ticker
+    552.601657
+Name: 2025-07-14 00:00:00, dtype: object","Ticker
+    22.226429
+Name: 2025-07-14 00:00:00, dtype: object"
+EIB.VN,2025-07-11,"Ticker
+    455.502392
+Name: 2025-07-11 00:00:00, dtype: object","Ticker
+    427.96359
+Name: 2025-07-11 00:00:00, dtype: object","Ticker
+    27.538802
+Name: 2025-07-11 00:00:00, dtype: object"
+PPC.VN,2025-07-11,"Ticker
+   -103.36834
+Name: 2025-07-11 00:00:00, dtype: object","Ticker
+   -107.686408
+Name: 2025-07-11 00:00:00, dtype: object","Ticker
+    4.318068
+Name: 2025-07-11 00:00:00, dtype: object"
+SAB.VN,2025-07-10,"Ticker
+    267.210333
+Name: 2025-07-10 00:00:00, dtype: object","Ticker
+    195.278101
+Name: 2025-07-10 00:00:00, dtype: object","Ticker
+    71.932233
+Name: 2025-07-10 00:00:00, dtype: object"
+VIC.VN,2025-07-10,"Ticker
+    2162.080835
+Name: 2025-07-10 00:00:00, dtype: object","Ticker
+    2031.190294
+Name: 2025-07-10 00:00:00, dtype: object","Ticker
+    130.890541
+Name: 2025-07-10 00:00:00, dtype: object"
+VGC.VN,2025-07-10,"Ticker
+    275.515748
+Name: 2025-07-10 00:00:00, dtype: object","Ticker
+    274.419805
+Name: 2025-07-10 00:00:00, dtype: object","Ticker
+    1.095943
+Name: 2025-07-10 00:00:00, dtype: object"
+VHC.VN,2025-07-09,"Ticker
+    1197.015978
+Name: 2025-07-09 00:00:00, dtype: object","Ticker
+    1177.734584
+Name: 2025-07-09 00:00:00, dtype: object","Ticker
+    19.281394
+Name: 2025-07-09 00:00:00, dtype: object"
+PC1.VN,2025-07-08,"Ticker
+   -70.212985
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+   -83.93118
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    13.718195
+Name: 2025-07-08 00:00:00, dtype: object"
+PHR.VN,2025-07-08,"Ticker
+    2960.483295
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    2944.8712
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    15.612096
+Name: 2025-07-08 00:00:00, dtype: object"
+VHM.VN,2025-07-08,"Ticker
+    2182.8917
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    2166.550055
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    16.341645
+Name: 2025-07-08 00:00:00, dtype: object"
+AAA.VN,2025-07-08,"Ticker
+    48.392805
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    39.596309
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    8.796496
+Name: 2025-07-08 00:00:00, dtype: object"
+KDH.VN,2025-07-08,"Ticker
+    143.383498
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    120.346884
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    23.036613
+Name: 2025-07-08 00:00:00, dtype: object"
+CTR.VN,2025-07-08,"Ticker
+    2413.485375
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    2400.518903
+Name: 2025-07-08 00:00:00, dtype: object","Ticker
+    12.966473
+Name: 2025-07-08 00:00:00, dtype: object"
+SHB.VN,2025-07-07,"Ticker
+    85.742597
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    57.314808
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    28.427789
+Name: 2025-07-07 00:00:00, dtype: object"
+HDC.VN,2025-07-07,"Ticker
+    374.510458
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    345.421144
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    29.089313
+Name: 2025-07-07 00:00:00, dtype: object"
+VRE.VN,2025-07-07,"Ticker
+    25.203735
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    5.643095
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    19.560639
+Name: 2025-07-07 00:00:00, dtype: object"
+VPB.VN,2025-07-07,"Ticker
+    254.825638
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    229.734351
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    25.091287
+Name: 2025-07-07 00:00:00, dtype: object"
+SJS.VN,2025-07-07,"Ticker
+    748.87207
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    739.214552
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    9.657517
+Name: 2025-07-07 00:00:00, dtype: object"
+DIG.VN,2025-07-07,"Ticker
+    420.116879
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    390.845332
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    29.271547
+Name: 2025-07-07 00:00:00, dtype: object"
+HSG.VN,2025-07-07,"Ticker
+    295.577729
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    282.426821
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    13.150909
+Name: 2025-07-07 00:00:00, dtype: object"
+HCM.VN,2025-07-07,"Ticker
+   -730.691321
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+   -814.234108
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    83.542787
+Name: 2025-07-07 00:00:00, dtype: object"
+PDR.VN,2025-07-07,"Ticker
+    273.145924
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    217.249161
+Name: 2025-07-07 00:00:00, dtype: object","Ticker
+    55.896762
+Name: 2025-07-07 00:00:00, dtype: object"
+POW.VN,2025-07-04,"Ticker
+    54.676897
+Name: 2025-07-04 00:00:00, dtype: object","Ticker
+    46.741338
+Name: 2025-07-04 00:00:00, dtype: object","Ticker
+    7.93556
+Name: 2025-07-04 00:00:00, dtype: object"
+TCH.VN,2025-07-04,"Ticker
+    309.240513
+Name: 2025-07-04 00:00:00, dtype: object","Ticker
+    267.08129
+Name: 2025-07-04 00:00:00, dtype: object","Ticker
+    42.159223
+Name: 2025-07-04 00:00:00, dtype: object"
+HHV.VN,2025-07-04,"Ticker
+    69.179358
+Name: 2025-07-04 00:00:00, dtype: object","Ticker
+    66.749605
+Name: 2025-07-04 00:00:00, dtype: object","Ticker
+    2.429753
+Name: 2025-07-04 00:00:00, dtype: object"
+MWG.VN,2025-07-04,"Ticker
+    952.280112
+Name: 2025-07-04 00:00:00, dtype: object","Ticker
+    917.527261
+Name: 2025-07-04 00:00:00, dtype: object","Ticker
+    34.752852
+Name: 2025-07-04 00:00:00, dtype: object"
+CII.VN,2025-07-03,"Ticker
+    134.880265
+Name: 2025-07-03 00:00:00, dtype: object","Ticker
+    127.171929
+Name: 2025-07-03 00:00:00, dtype: object","Ticker
+    7.708336
+Name: 2025-07-03 00:00:00, dtype: object"
+PAN.VN,2025-07-02,"Ticker
+    612.089743
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    546.14913
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    65.940613
+Name: 2025-07-02 00:00:00, dtype: object"
+VIX.VN,2025-07-02,"Ticker
+    130.540696
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    86.46065
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    44.080045
+Name: 2025-07-02 00:00:00, dtype: object"
+HAG.VN,2025-07-02,"Ticker
+    10.563472
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    7.051176
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    3.512296
+Name: 2025-07-02 00:00:00, dtype: object"
+GMD.VN,2025-07-02,"Ticker
+    624.127473
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    449.481956
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    174.645517
+Name: 2025-07-02 00:00:00, dtype: object"
+VCI.VN,2025-07-02,"Ticker
+   -124.570746
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+   -184.628617
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    60.057871
+Name: 2025-07-02 00:00:00, dtype: object"
+NKG.VN,2025-07-02,"Ticker
+    130.112029
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    129.736685
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    0.375344
+Name: 2025-07-02 00:00:00, dtype: object"
+HDB.VN,2025-07-02,"Ticker
+    104.011583
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    89.605308
+Name: 2025-07-02 00:00:00, dtype: object","Ticker
+    14.406274
+Name: 2025-07-02 00:00:00, dtype: object"
+FPT.VN,2025-07-01,"Ticker
+    622.518888
+Name: 2025-07-01 00:00:00, dtype: object","Ticker
+    552.293614
+Name: 2025-07-01 00:00:00, dtype: object","Ticker
+    70.225274
+Name: 2025-07-01 00:00:00, dtype: object"
+SAM.VN,2025-07-01,"Ticker
+    7.398655
+Name: 2025-07-01 00:00:00, dtype: object","Ticker
+    3.172588
+Name: 2025-07-01 00:00:00, dtype: object","Ticker
+    4.226068
+Name: 2025-07-01 00:00:00, dtype: object"
+VJC.VN,2025-07-01,"Ticker
+    0.531017
+Name: 2025-07-01 00:00:00, dtype: object","Ticker
+   -70.015856
+Name: 2025-07-01 00:00:00, dtype: object","Ticker
+    70.546873
+Name: 2025-07-01 00:00:00, dtype: object"
+TPB.VN,2025-07-01,"Ticker
+    95.190706
+Name: 2025-07-01 00:00:00, dtype: object","Ticker
+    92.78801
+Name: 2025-07-01 00:00:00, dtype: object","Ticker
+    2.402696
+Name: 2025-07-01 00:00:00, dtype: object"
+ASM.VN,2025-06-30,"Ticker
+    67.937117
+Name: 2025-06-30 00:00:00, dtype: object","Ticker
+    55.507471
+Name: 2025-06-30 00:00:00, dtype: object","Ticker
+    12.429646
+Name: 2025-06-30 00:00:00, dtype: object"
+VIB.VN,2025-06-30,"Ticker
+    55.918002
+Name: 2025-06-30 00:00:00, dtype: object","Ticker
+    50.495127
+Name: 2025-06-30 00:00:00, dtype: object","Ticker
+    5.422875
+Name: 2025-06-30 00:00:00, dtype: object"
+LPB.VN,2025-06-30,"Ticker
+    76.336309
+Name: 2025-06-30 00:00:00, dtype: object","Ticker
+    63.896469
+Name: 2025-06-30 00:00:00, dtype: object","Ticker
+    12.43984
+Name: 2025-06-30 00:00:00, dtype: object"
+VSH.VN,2025-06-27,"Ticker
+   -904.382134
+Name: 2025-06-27 00:00:00, dtype: object","Ticker
+   -944.222961
+Name: 2025-06-27 00:00:00, dtype: object","Ticker
+    39.840826
+Name: 2025-06-27 00:00:00, dtype: object"
+KBC.VN,2025-06-26,"Ticker
+    149.249005
+Name: 2025-06-26 00:00:00, dtype: object","Ticker
+    101.426335
+Name: 2025-06-26 00:00:00, dtype: object","Ticker
+    47.82267
+Name: 2025-06-26 00:00:00, dtype: object"
+VND.VN,2025-06-25,"Ticker
+    375.377773
+Name: 2025-06-25 00:00:00, dtype: object","Ticker
+    349.877111
+Name: 2025-06-25 00:00:00, dtype: object","Ticker
+    25.500662
+Name: 2025-06-25 00:00:00, dtype: object"
+SSI.VN,2025-06-24,"Ticker
+    159.093763
+Name: 2025-06-24 00:00:00, dtype: object","Ticker
+    134.026769
+Name: 2025-06-24 00:00:00, dtype: object","Ticker
+    25.066994
+Name: 2025-06-24 00:00:00, dtype: object"
+PTB.VN,2025-06-24,"Ticker
+    224.212949
+Name: 2025-06-24 00:00:00, dtype: object","Ticker
+    176.87048
+Name: 2025-06-24 00:00:00, dtype: object","Ticker
+    47.342469
+Name: 2025-06-24 00:00:00, dtype: object"
+BVH.VN,2025-06-24,"Ticker
+    906.164339
+Name: 2025-06-24 00:00:00, dtype: object","Ticker
+    785.214628
+Name: 2025-06-24 00:00:00, dtype: object","Ticker
+    120.949711
+Name: 2025-06-24 00:00:00, dtype: object"
+SSB.VN,2025-06-20,"Ticker
+   -175.50634
+Name: 2025-06-20 00:00:00, dtype: object","Ticker
+   -185.610682
+Name: 2025-06-20 00:00:00, dtype: object","Ticker
+    10.104342
+Name: 2025-06-20 00:00:00, dtype: object"
+BID.VN,2025-06-20,"Ticker
+    33.748812
+Name: 2025-06-20 00:00:00, dtype: object","Ticker
+    16.963805
+Name: 2025-06-20 00:00:00, dtype: object","Ticker
+    16.785007
+Name: 2025-06-20 00:00:00, dtype: object"
+KDC.VN,2025-06-19,"Ticker
+   -368.929339
+Name: 2025-06-19 00:00:00, dtype: object","Ticker
+   -558.365409
+Name: 2025-06-19 00:00:00, dtype: object","Ticker
+    189.436071
+Name: 2025-06-19 00:00:00, dtype: object"
+TCB.VN,2025-06-18,"Ticker
+    930.71807
+Name: 2025-06-18 00:00:00, dtype: object","Ticker
+    873.438551
+Name: 2025-06-18 00:00:00, dtype: object","Ticker
+    57.279519
+Name: 2025-06-18 00:00:00, dtype: object"
+BCG.VN,2025-06-18,"Ticker
+   -37.878335
+Name: 2025-06-18 00:00:00, dtype: object","Ticker
+   -49.997624
+Name: 2025-06-18 00:00:00, dtype: object","Ticker
+    12.119289
+Name: 2025-06-18 00:00:00, dtype: object"
+VCB.VN,2025-06-17,"Ticker
+   -171.897029
+Name: 2025-06-17 00:00:00, dtype: object","Ticker
+   -242.801716
+Name: 2025-06-17 00:00:00, dtype: object","Ticker
+    70.904687
+Name: 2025-06-17 00:00:00, dtype: object"
+GAS.VN,2025-06-16,"Ticker
+    1271.525402
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    1207.115955
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    64.409447
+Name: 2025-06-16 00:00:00, dtype: object"
+VNM.VN,2025-06-16,"Ticker
+    172.414314
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    170.835506
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    1.578807
+Name: 2025-06-16 00:00:00, dtype: object"
+MSN.VN,2025-06-16,"Ticker
+    1252.100498
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    1177.351965
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    74.748533
+Name: 2025-06-16 00:00:00, dtype: object"
+ANV.VN,2025-06-16,"Ticker
+    330.122044
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    324.412045
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    5.709999
+Name: 2025-06-16 00:00:00, dtype: object"
+CMG.VN,2025-06-16,"Ticker
+    615.066416
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    541.83795
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    73.228466
+Name: 2025-06-16 00:00:00, dtype: object"
+CTG.VN,2025-06-16,"Ticker
+    275.301036
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    201.233793
+Name: 2025-06-16 00:00:00, dtype: object","Ticker
+    74.067243
+Name: 2025-06-16 00:00:00, dtype: object"
+DGC.VN,2025-06-12,"Ticker
+    697.871894
+Name: 2025-06-12 00:00:00, dtype: object","Ticker
+    596.783504
+Name: 2025-06-12 00:00:00, dtype: object","Ticker
+    101.08839
+Name: 2025-06-12 00:00:00, dtype: object"
+HPG.VN,2025-06-10,"Ticker
+    212.67798
+Name: 2025-06-10 00:00:00, dtype: object","Ticker
+    208.532902
+Name: 2025-06-10 00:00:00, dtype: object","Ticker
+    4.145078
+Name: 2025-06-10 00:00:00, dtype: object"
+PLX.VN,2025-06-04,"Ticker
+    340.410171
+Name: 2025-06-04 00:00:00, dtype: object","Ticker
+    315.308431
+Name: 2025-06-04 00:00:00, dtype: object","Ticker
+    25.10174
+Name: 2025-06-04 00:00:00, dtype: object"
